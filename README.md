@@ -16,3 +16,9 @@ Building a prediction market startup in stealth. 🔒
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
+---
+
+## 📬 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/filbertowen.s@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:filbertowen.s@gmail.com)
+[![X](https://img.shields.io/badge/@f__owen34-000000?style=flat&logo=x&logoColor=white)](https://x.com/f_owen34)
