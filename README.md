@@ -1,7 +1,5 @@
 ## Hi there, I'm Owen 👋
 
-Building a prediction market startup in stealth. 🔒
-
 ---
 
 ## 🛠️ Tech Stack
